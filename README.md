@@ -2,5 +2,4 @@
 
 ## About
 
-Just an useless app which gives you useless advice. 
-
+A Todo app using React. 
