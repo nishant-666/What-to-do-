@@ -2,5 +2,5 @@
 
 ## About
 
-Just a useless app which gives you useless advice. 
+Just an useless app which gives you useless advice. 
 
