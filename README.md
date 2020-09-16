@@ -1,5 +1,3 @@
-
-
 ## About
 
-A Todo app using React. 
+A Todo app using React.
